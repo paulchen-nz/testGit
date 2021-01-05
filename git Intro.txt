@@ -1,0 +1,9 @@
+BASIC COMMANDS
+git init
+git add <file> // .
+fit status
+git commit -m ""
+git push // push to remote repository
+git pull // pull latest from remote rep
+git clone // Clone repo
+
